@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Modern Smart Phone",
+    "category": "Accessories",
+    "price": "30.00",
+    "image": "/src/assets/images/1.webp"
+  },
+  {
+    "name": "Bluetooth Headphone",
+    "category": "Accessories",
+    "price": "98.00",
+    "image": "/src/assets/images/2.webp"
+  },
+  {
+    "name": "Smart Music Box",
+    "category": "Accessories",
+    "price": "50.00",
+    "image": "/src/assets/images/6.webp"
+  },
+  {
+    "name": "Air Pods 25Hjkl Black",
+    "category": "Accessories",
+    "price": "36.00",
+    "image": "/src/assets/images/7.webp"
+  },
+  {
+    "name": "Smart Hand Watch",
+    "category": "Accessories",
+    "price": "33.00",
+    "image": "/src/assets/images/8.webp"
+  },
+  {
+    "name": "Smart Table Camera",
+    "category": "Accessories",
+    "price": "50.00",
+    "image": "/src/assets/images/9.webp"
+  },
+  {
+    "name": "Modern Smart Phone",
+    "category": "Accessories",
+    "price": "35.00",
+    "image": "/src/assets/images/2.webp"
+  }
+]
